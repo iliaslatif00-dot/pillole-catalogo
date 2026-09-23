@@ -1,0 +1,2762 @@
+[
+ {
+  "id": "yt-H7rdW-7KKmw-209",
+  "titolo": "La scrittura è nata per contare il grano",
+  "argomento": "storia",
+  "capitolo": "Antichità",
+  "cosaImpari": "I Sumeri avevano così tanti raccolti che dovevano sapere quanto cibo c'era nei magazzini. Iniziarono a segnare le scorte su tavolette d'argilla con bastoncini appuntiti: i segni a cuneo diedero il nome alla scrittura cuneiforme.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Per cosa nacque la scrittura cuneiforme dei Sumeri?",
+   "risposte": [
+    "Per scrivere poesie agli dèi",
+    "Per contare e gestire le scorte di cibo",
+    "Per le lettere d'amore"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "H7rdW-7KKmw",
+   "inizio": 209,
+   "fine": 262,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-O6pQsPdZaxk-155",
+  "titolo": "L'arco non l'hanno inventato i Romani",
+  "argomento": "storia",
+  "capitolo": "Antichità",
+  "cosaImpari": "Gli Etruschi, il primo grande popolo italiano, furono i primi (verso il VI secolo a.C.) a costruire archi completi con blocchi di pietra. I Romani presero l'idea proprio da loro, insieme a molte altre usanze.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Da chi presero i Romani l'arco in pietra?",
+   "risposte": [
+    "Dai Greci",
+    "Dagli Etruschi",
+    "Dagli Egizi"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "O6pQsPdZaxk",
+   "inizio": 155,
+   "fine": 205,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-tVQW9ac-DU8-398",
+  "titolo": "Annibale e gli elefanti: quanti arrivarono davvero",
+  "argomento": "storia",
+  "capitolo": "Antichità",
+  "cosaImpari": "Nel 218 a.C. Annibale attraversò le Alpi con 38.000 fanti, 8.000 cavalieri e 37 elefanti. Ne arrivò poco più della metà degli uomini; gli elefanti sopravvissero ma morirono quasi tutti dopo la battaglia della Trebbia, tranne uno: Surus.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Come si chiamava l'unico elefante di Annibale sopravvissuto a lungo?",
+   "risposte": [
+    "Barca",
+    "Surus",
+    "Zama"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "tVQW9ac-DU8",
+   "inizio": 398,
+   "fine": 444,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-IOVzLZ1Lbws-123",
+  "titolo": "Cos'è il mixaggio: i 5 comandi di una canzone",
+  "argomento": "musica",
+  "capitolo": "Equalizzazione",
+  "cosaImpari": "Mixare vuol dire mettere a punto cinque cose: volumi, stereofonia (cosa sta a destra e a sinistra), equalizzazione (le frequenze), profondità (riverbero ed eco) e dinamica.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Quale di questi NON è uno dei 5 elementi del mixaggio?",
+   "risposte": [
+    "La stereofonia",
+    "L'equalizzazione",
+    "Il testo della canzone"
+   ],
+   "giusta": 2
+  },
+  "youtube": {
+   "id": "IOVzLZ1Lbws",
+   "inizio": 123,
+   "fine": 188,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-5yaxvKTuTPg-28",
+  "titolo": "A cosa serve un compressore",
+  "argomento": "musica",
+  "capitolo": "Compressione",
+  "cosaImpari": "Il compressore riduce la dinamica di una traccia: abbassa le parti troppo forti così che il volume sia più uniforme. Senza, alcune parti coprono il mix e altre spariscono.",
+  "fonte": "Antonio Orrico · YouTube",
+  "quiz": {
+   "domanda": "Qual è il compito principale del compressore?",
+   "risposte": [
+    "Aggiungere eco",
+    "Ridurre la differenza tra parti forti e deboli",
+    "Cambiare la tonalità"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "5yaxvKTuTPg",
+   "inizio": 28,
+   "fine": 78,
+   "canale": "Antonio Orrico",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-vccvV6bs8iU-144",
+  "titolo": "Rompere un bicchiere con la voce",
+  "argomento": "musica",
+  "capitolo": "Fisica del suono",
+  "cosaImpari": "Ogni bicchiere ha una sua frequenza di risonanza (qui circa 587 Hz, un Re). Se canti proprio quella nota abbastanza forte, il vetro vibra sempre di più finché si rompe.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Cosa serve per rompere un calice con la voce?",
+   "risposte": [
+    "Una nota qualsiasi ma molto acuta",
+    "La stessa frequenza di risonanza del bicchiere, abbastanza forte",
+    "Soffiare mentre si canta"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "vccvV6bs8iU",
+   "inizio": 144,
+   "fine": 205,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-QAgmdiHZv-E-15",
+  "titolo": "Le 12 note: toni e semitoni",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "Le note in tutto sono 12 (scala cromatica). La distanza più piccola è il semitono: un tasto accanto sul pianoforte. Due semitoni fanno un tono. Il diesis alza di un semitono, il bemolle abbassa di un semitono.",
+  "fonte": "Dennis Giorgi · YouTube",
+  "quiz": {
+   "domanda": "Quanti semitoni fanno un tono?",
+   "risposte": [
+    "Uno",
+    "Due",
+    "Tre"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "QAgmdiHZv-E",
+   "inizio": 15,
+   "fine": 76,
+   "canale": "Dennis Giorgi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-pJaI-vlK_ac-258",
+  "titolo": "Microfono dinamico o a condensatore?",
+  "argomento": "musica",
+  "capitolo": "Registrazione",
+  "cosaImpari": "Il condensatore è più sensibile: cattura dettagli e sfumature (voce in studio). Il dinamico è meno dettagliato ma robusto e regge suoni fortissimi: chitarra elettrica, batteria, live. Il classico è lo Shure SM58.",
+  "fonte": "Daniele Cinto · YouTube",
+  "quiz": {
+   "domanda": "Per una batteria o un concerto, di solito si sceglie un microfono...",
+   "risposte": [
+    "A condensatore",
+    "Dinamico",
+    "Qualsiasi, è uguale"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "pJaI-vlK_ac",
+   "inizio": 258,
+   "fine": 304,
+   "canale": "Daniele Cinto",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-2Ywi2Va6RuQ-112",
+  "titolo": "Il compressore spiegato con la mamma",
+  "argomento": "musica",
+  "capitolo": "Compressione",
+  "cosaImpari": "Ascolti musica forte e la mamma ti fa abbassare. Threshold: il volume oltre cui interviene. Ratio: di quanto ti fa abbassare. Attack: quanto in fretta abbassi. Release: dopo quanto torni al volume di prima.",
+  "fonte": "REAPERIANI · YouTube",
+  "quiz": {
+   "domanda": "Nel compressore, cosa indica il ratio?",
+   "risposte": [
+    "Da che volume interviene",
+    "Di quanto riduce il volume",
+    "Quanto tempo dura"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "2Ywi2Va6RuQ",
+   "inizio": 112,
+   "fine": 175,
+   "canale": "REAPERIANI",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-SJmduMsWsWk-131",
+  "titolo": "La loudness war: più forte non è meglio",
+  "argomento": "musica",
+  "capitolo": "Mastering e loudness",
+  "cosaImpari": "Schiacciando la dinamica con un limiter il brano sembra più forte, anche se il picco resta a 0 dB. Ma si riduce la differenza tra parti forti e deboli e l'audio si rovina: è la 'guerra del volume'.",
+  "fonte": "LPXI by Marco Zanoni · YouTube",
+  "quiz": {
+   "domanda": "Cosa si sacrifica per far sembrare un brano più forte con il limiter?",
+   "risposte": [
+    "La tonalità",
+    "La dinamica",
+    "La durata"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "SJmduMsWsWk",
+   "inizio": 131,
+   "fine": 206,
+   "canale": "LPXI by Marco Zanoni",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-I-eFjl2G9vg-16",
+  "titolo": "Arresto cardiaco: cosa fare nei primi minuti",
+  "argomento": "scienza",
+  "capitolo": "Primo soccorso",
+  "cosaImpari": "Controlla che non ci siano pericoli, chiama e scuoti la persona. Se non risponde e non respira: fai chiamare il 112/118, fai cercare un defibrillatore e inizia subito le compressioni al centro del torace, senza fermarti finché arriva aiuto.",
+  "fonte": "MedicinaInformazione · YouTube",
+  "quiz": {
+   "domanda": "Se una persona non risponde e non respira, cosa fai subito?",
+   "risposte": [
+    "Le dai da bere",
+    "Fai chiamare il 112/118 e inizi le compressioni toraciche",
+    "Aspetti che si riprenda"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "I-eFjl2G9vg",
+   "inizio": 16,
+   "fine": 92,
+   "canale": "MedicinaInformazione",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-BHUCXLMR7qk-173",
+  "titolo": "Il motore dentro ogni altoparlante",
+  "argomento": "musica",
+  "capitolo": "Fisica del suono",
+  "cosaImpari": "Una bobina di rame percorsa da corrente diventa una calamita e viene spinta o tirata dal magnete fisso. Più corrente vuol dire più volume, e quando la corrente cambia verso il cono va avanti e indietro.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Cosa fa muovere il cono di un altoparlante?",
+   "risposte": [
+    "Una molla caricata dall'aria",
+    "Una bobina percorsa da corrente che interagisce con un magnete",
+    "Un piccolo motore a scoppio"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "BHUCXLMR7qk",
+   "inizio": 173,
+   "fine": 238,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-QAgmdiHZv-E-219",
+  "titolo": "La formula della scala maggiore",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "Ogni scala maggiore segue gli stessi passi: tono, tono, semitono, tono, tono, tono, semitono (T T S T T T S). Parti da qualsiasi nota, applichi la formula e trovi la scala: da Mi escono Fa#, Sol#, Do#, Re#.",
+  "fonte": "Dennis Giorgi · YouTube",
+  "quiz": {
+   "domanda": "Qual è la sequenza di intervalli della scala maggiore?",
+   "risposte": [
+    "T T S T T T S",
+    "T S T T S T T",
+    "S T T S T T T"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "QAgmdiHZv-E",
+   "inizio": 219,
+   "fine": 290,
+   "canale": "Dennis Giorgi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-pJaI-vlK_ac-182",
+  "titolo": "Cardioide, omni, figura a 8",
+  "argomento": "musica",
+  "capitolo": "Registrazione",
+  "cosaImpari": "Il diagramma polare dice da dove il microfono sente. Cardioide: davanti sì, lati meno, dietro no (il più usato per la voce). Super e ipercardioide: ancora più stretti. Omnidirezionale: tutto intorno, per i cori. Figura a 8: davanti e dietro.",
+  "fonte": "Daniele Cinto · YouTube",
+  "quiz": {
+   "domanda": "Quale diagramma riprende da tutte le direzioni?",
+   "risposte": [
+    "Cardioide",
+    "Omnidirezionale",
+    "Ipercardioide"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "pJaI-vlK_ac",
+   "inizio": 182,
+   "fine": 244,
+   "canale": "Daniele Cinto",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-5yaxvKTuTPg-209",
+  "titolo": "Ratio e make-up gain",
+  "argomento": "musica",
+  "capitolo": "Compressione",
+  "cosaImpari": "Con ratio 2:1, per ogni 2 dB oltre la soglia ne esce 1. Rapporti moderati sono i più comuni; con valori molto alti si entra nel limiting. Comprimendo il volume scende: lo recuperi con il make-up gain (output).",
+  "fonte": "Antonio Orrico · YouTube",
+  "quiz": {
+   "domanda": "Con ratio 2:1, un picco di 4 dB sopra la soglia diventa...",
+   "risposte": [
+    "4 dB",
+    "2 dB",
+    "1 dB"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "5yaxvKTuTPg",
+   "inizio": 209,
+   "fine": 262,
+   "canale": "Antonio Orrico",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-SJmduMsWsWk-326",
+  "titolo": "LUFS: la media di tutto il brano",
+  "argomento": "musica",
+  "capitolo": "Mastering e loudness",
+  "cosaImpari": "L'RMS misura il volume istante per istante; i LUFS integrati fanno la media sull'intero brano (ignorando i silenzi). Per questo sono la misura più realistica del volume percepito di una canzone.",
+  "fonte": "LPXI by Marco Zanoni · YouTube",
+  "quiz": {
+   "domanda": "Cosa misurano i LUFS integrati?",
+   "risposte": [
+    "Il picco massimo",
+    "Il volume medio percepito su tutto il brano",
+    "La frequenza più alta"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "SJmduMsWsWk",
+   "inizio": 326,
+   "fine": 372,
+   "canale": "LPXI by Marco Zanoni",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-I-eFjl2G9vg-155",
+  "titolo": "Usare un defibrillatore (DAE)",
+  "argomento": "scienza",
+  "capitolo": "Primo soccorso",
+  "cosaImpari": "Accendilo e segui la voce. Piastre: una sotto la clavicola destra, una sotto l'ascella sinistra. Durante l'analisi e la scarica nessuno deve toccare la persona. Dopo la scarica riprendi subito il massaggio (30 compressioni e 2 ventilazioni se sei addestrato, altrimenti solo compressioni).",
+  "fonte": "MedicinaInformazione · YouTube",
+  "quiz": {
+   "domanda": "Cosa fai subito dopo la scarica del defibrillatore?",
+   "risposte": [
+    "Aspetti che si svegli",
+    "Riprendi subito le compressioni",
+    "Stacchi le piastre"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "I-eFjl2G9vg",
+   "inizio": 155,
+   "fine": 240,
+   "canale": "MedicinaInformazione",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-BHUCXLMR7qk-501",
+  "titolo": "Perché i woofer sono grandi e i tweeter piccoli",
+  "argomento": "musica",
+  "capitolo": "Fisica del suono",
+  "cosaImpari": "Le frequenze basse sono onde lunghe e lente: serve un cono grande per spostare abbastanza aria. Le alte sono corte e veloci: un cono piccolo riesce a seguirle, uno grande no.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Perché per i bassi serve un altoparlante grande?",
+   "risposte": [
+    "Perché le onde basse sono lunghe e serve spostare più aria",
+    "Perché i bassi sono più forti",
+    "Per motivi estetici"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "BHUCXLMR7qk",
+   "inizio": 501,
+   "fine": 563,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-QAgmdiHZv-E-375",
+  "titolo": "La scala minore naturale",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "La minore naturale, la più usata nel pop, segue i passi T S T T S T T. In Do: Do, Re, Mib, Fa, Sol, Lab, Sib. Le altre minori (armonica e melodica) sono più rare nella musica leggera.",
+  "fonte": "Dennis Giorgi · YouTube",
+  "quiz": {
+   "domanda": "Quale sequenza segue la scala minore naturale?",
+   "risposte": [
+    "T T S T T T S",
+    "T S T T S T T",
+    "T T T S T T S"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "QAgmdiHZv-E",
+   "inizio": 375,
+   "fine": 420,
+   "canale": "Dennis Giorgi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-EwTyCOP1VWY-199",
+  "titolo": "Cuffie chiuse per registrare, aperte per mixare",
+  "argomento": "musica",
+  "capitolo": "Registrazione",
+  "cosaImpari": "Le cuffie chiuse isolano: la musica non esce e non rientra nel microfono, perfette per registrare. Le aperte suonano più ampie e fedeli, simili alle casse: meglio per mixare.",
+  "fonte": "Icona Boi · YouTube",
+  "quiz": {
+   "domanda": "Quali cuffie usare mentre registri la voce?",
+   "risposte": [
+    "Aperte",
+    "Chiuse",
+    "Nessuna"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "EwTyCOP1VWY",
+   "inizio": 199,
+   "fine": 241,
+   "canale": "Icona Boi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-5yaxvKTuTPg-581",
+  "titolo": "Attack e release",
+  "argomento": "musica",
+  "capitolo": "Compressione",
+  "cosaImpari": "L'attack è quanto tempo il compressore aspetta prima di intervenire, il release quanto ci mette a smettere. Per domare i picchi iniziali (i transienti, l'attacco della pennata) serve un attack veloce.",
+  "fonte": "Antonio Orrico · YouTube",
+  "quiz": {
+   "domanda": "Per controllare i picchi iniziali di un suono, l'attack deve essere...",
+   "risposte": [
+    "Veloce",
+    "Lento",
+    "Spento"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "5yaxvKTuTPg",
+   "inizio": 581,
+   "fine": 640,
+   "canale": "Antonio Orrico",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-SJmduMsWsWk-593",
+  "titolo": "-14 LUFS per lo streaming",
+  "argomento": "musica",
+  "capitolo": "Mastering e loudness",
+  "cosaImpari": "Le piattaforme di streaming lavorano tutte intorno a -14 LUFS (la TV a -23). Il valore non dipende solo dal volume: anche l'equalizzazione, soprattutto le medie frequenze, lo sposta parecchio.",
+  "fonte": "LPXI by Marco Zanoni · YouTube",
+  "quiz": {
+   "domanda": "Intorno a che valore lavorano le piattaforme di streaming?",
+   "risposte": [
+    "-6 LUFS",
+    "-14 LUFS",
+    "-30 LUFS"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "SJmduMsWsWk",
+   "inizio": 593,
+   "fine": 641,
+   "canale": "LPXI by Marco Zanoni",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-B9udm9iGFU4-127",
+  "titolo": "Soffocamento nell'adulto: la manovra di Heimlich",
+  "argomento": "scienza",
+  "capitolo": "Primo soccorso",
+  "cosaImpari": "Se la persona non parla, non respira e si porta le mani al collo: mettiti dietro, pugno sopra l'ombelico e sotto lo sterno, l'altra mano sopra, e spingi forte verso l'interno e verso l'alto. Continua finché espelle il corpo estraneo; se perde coscienza, inizia la rianimazione.",
+  "fonte": "Francesco Pastore · YouTube",
+  "quiz": {
+   "domanda": "Dove si posiziona il pugno nella manovra di Heimlich?",
+   "risposte": [
+    "Sul petto",
+    "Tra l'ombelico e lo sterno",
+    "Sulla schiena"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "B9udm9iGFU4",
+   "inizio": 127,
+   "fine": 212,
+   "canale": "Francesco Pastore",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-PmLN-RSWuwo-80",
+  "titolo": "Come fanno le cuffie a cancellare il rumore",
+  "argomento": "musica",
+  "capitolo": "Fisica del suono",
+  "cosaImpari": "Le cuffie con cancellazione attiva ascoltano il rumore con un microfono e generano un'onda uguale ma in controfase: dove il rumore ha un picco, l'anti-onda ha una valle, e le due si annullano.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Come funziona la cancellazione attiva del rumore?",
+   "risposte": [
+    "Con imbottiture più spesse",
+    "Creando un'onda uguale al rumore ma in controfase",
+    "Alzando automaticamente la musica"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "PmLN-RSWuwo",
+   "inizio": 80,
+   "fine": 142,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-IOVzLZ1Lbws-519",
+  "titolo": "Perché su Spotify tutte le canzoni suonano forti uguali",
+  "argomento": "musica",
+  "capitolo": "Mastering e loudness",
+  "cosaImpari": "Spotify normalizza il volume: chiede le canzoni a circa -14 (LUFS) e abbassa quelle consegnate più forti. Con 'Normalizza volume' attivo, un brano di vent'anni fa e uno di oggi suonano allo stesso livello.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Cosa fa Spotify se una canzone è consegnata più forte del suo riferimento?",
+   "risposte": [
+    "La alza ancora",
+    "La abbassa",
+    "La rifiuta"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "IOVzLZ1Lbws",
+   "inizio": 519,
+   "fine": 566,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-M9jKrn-PNkk-29",
+  "titolo": "Com'è fatto un accordo maggiore",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "Un accordo base (triade) ha tre note: fondamentale, terza e quinta. Nel maggiore, dalla fondamentale alla terza ci sono 4 semitoni (terza maggiore) e alla quinta 7. Do maggiore = Do, Mi, Sol.",
+  "fonte": "Dennis Giorgi · YouTube",
+  "quiz": {
+   "domanda": "Quali note formano il Do maggiore?",
+   "risposte": [
+    "Do, Mi, Sol",
+    "Do, Re, Mi",
+    "Do, Fa, La"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "M9jKrn-PNkk",
+   "inizio": 29,
+   "fine": 74,
+   "canale": "Dennis Giorgi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-yqjp2dviFUA-72",
+  "titolo": "Registrare la voce in casa: il trucco dell'armadio",
+  "argomento": "musica",
+  "capitolo": "Registrazione",
+  "cosaImpari": "Mettiti davanti a un armadio aperto pieno di vestiti: la stoffa assorbe il suono e riduce le riflessioni e le risonanze della stanza. Senza spendere nulla ottieni una voce molto più asciutta e pulita.",
+  "fonte": "In Studio Col Gallo · YouTube",
+  "quiz": {
+   "domanda": "Perché conviene registrare davanti a un armadio aperto?",
+   "risposte": [
+    "L'eco lo rende più bello",
+    "I vestiti assorbono le riflessioni della stanza",
+    "Si sente più il basso"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "yqjp2dviFUA",
+   "inizio": 72,
+   "fine": 123,
+   "canale": "In Studio Col Gallo",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-5yaxvKTuTPg-313",
+  "titolo": "Quanto comprimere: se si sente, è troppo",
+  "argomento": "musica",
+  "capitolo": "Compressione",
+  "cosaImpari": "Di solito una riduzione di 3-5 dB basta. La compressione ben fatta non si dovrebbe sentire: se la senti chiaramente stai esagerando, torna indietro. Molto dipende dal genere e dal ruolo dello strumento.",
+  "fonte": "Antonio Orrico · YouTube",
+  "quiz": {
+   "domanda": "Quanta riduzione di guadagno va bene di solito?",
+   "risposte": [
+    "3-5 dB",
+    "20 dB",
+    "40 dB"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "5yaxvKTuTPg",
+   "inizio": 313,
+   "fine": 361,
+   "canale": "Antonio Orrico",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-gIfWqrQGNtA-21",
+  "titolo": "Bambino che soffoca: tossisce o no?",
+  "argomento": "scienza",
+  "capitolo": "Primo soccorso",
+  "cosaImpari": "Se tossisce o piange l'ostruzione è parziale: non intervenire, tranquillizzalo e chiama i soccorsi. Se non emette suoni e diventa rosso o bluastro è completa: sopra l'anno di età si fa la manovra di Heimlich.",
+  "fonte": "Santagostino · YouTube",
+  "quiz": {
+   "domanda": "Un bambino con qualcosa in gola tossisce forte. Cosa fai?",
+   "risposte": [
+    "Manovra di Heimlich subito",
+    "Lo lasci tossire, lo tranquillizzi e chiami i soccorsi",
+    "Gli dai acqua"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "gIfWqrQGNtA",
+   "inizio": 21,
+   "fine": 100,
+   "canale": "Santagostino",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-93nOmdy0JmI-49",
+  "titolo": "Perché si registra a 44.100 Hz",
+  "argomento": "musica",
+  "capitolo": "Fisica del suono",
+  "cosaImpari": "L'orecchio sente circa da 20 a 20.000 Hz. Per registrare una frequenza bisogna campionarla almeno al doppio (teorema di Nyquist-Shannon): per arrivare a 20 kHz servono almeno 40.000 campioni al secondo. Da qui gli standard 44,1 e 48 kHz.",
+  "fonte": "Mike Borghese Audio · YouTube",
+  "quiz": {
+   "domanda": "Per registrare suoni fino a 20.000 Hz, la frequenza di campionamento deve essere almeno di...",
+   "risposte": [
+    "20.000 Hz",
+    "40.000 Hz",
+    "10.000 Hz"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "93nOmdy0JmI",
+   "inizio": 49,
+   "fine": 120,
+   "canale": "Mike Borghese Audio",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-M9jKrn-PNkk-74",
+  "titolo": "Maggiore o minore: basta un semitono",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "L'accordo minore ha gli stessi intervalli del maggiore ma invertiti: prima la terza minore (3 semitoni), poi la maggiore. Do minore = Do, Mib, Sol. L'unica differenza è la terza, abbassata di un semitono.",
+  "fonte": "Dennis Giorgi · YouTube",
+  "quiz": {
+   "domanda": "Cosa cambia tra Do maggiore e Do minore?",
+   "risposte": [
+    "La fondamentale",
+    "La terza, abbassata di un semitono",
+    "La quinta"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "M9jKrn-PNkk",
+   "inizio": 74,
+   "fine": 123,
+   "canale": "Dennis Giorgi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-yqjp2dviFUA-123",
+  "titolo": "Dove mettere il microfono per la voce",
+  "argomento": "musica",
+  "capitolo": "Registrazione",
+  "cosaImpari": "Metti la capsula più o meno all'altezza del naso e inclinala verso la bocca. Così il getto d'aria non arriva dritto sulla capsula e riduci sibilanti eccessive e 'p' che esplodono.",
+  "fonte": "In Studio Col Gallo · YouTube",
+  "quiz": {
+   "domanda": "Perché inclinare il microfono verso la bocca invece di metterlo davanti?",
+   "risposte": [
+    "Per vedere il testo",
+    "Per evitare il getto d'aria diretto e le sibilanti",
+    "Per registrare più forte"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "yqjp2dviFUA",
+   "inizio": 123,
+   "fine": 189,
+   "canale": "In Studio Col Gallo",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-OKCQd6Feidg-75",
+  "titolo": "Prima l'equalizzatore o il compressore?",
+  "argomento": "musica",
+  "capitolo": "Compressione",
+  "cosaImpari": "Dipende. Sulla voce di solito prima l'EQ correttivo, per togliere i difetti che il compressore farebbe risaltare. Su un basso o sulla room della batteria a volte prima il compressore, per tirare su ciò che ti piace, e poi l'EQ.",
+  "fonte": "Trappo Lone · YouTube",
+  "quiz": {
+   "domanda": "Perché sulla voce spesso si mette l'EQ correttivo prima del compressore?",
+   "risposte": [
+    "Per risparmiare CPU",
+    "Perché il compressore farebbe risaltare i difetti",
+    "È obbligatorio"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "OKCQd6Feidg",
+   "inizio": 75,
+   "fine": 150,
+   "canale": "Trappo Lone",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-SJmduMsWsWk-747",
+  "titolo": "Perché si consegna a -1 dB True Peak",
+  "argomento": "musica",
+  "capitolo": "Mastering e loudness",
+  "cosaImpari": "Tra due campioni a 0 dB, quando il segnale torna analogico l'onda può superare lo zero (picco tra i campioni). La conversione in MP3 o AAC peggiora il problema. Per questo i master si consegnano a -1 dBTP.",
+  "fonte": "LPXI by Marco Zanoni · YouTube",
+  "quiz": {
+   "domanda": "Perché si lascia -1 dB True Peak nel master?",
+   "risposte": [
+    "Per estetica",
+    "Perché nella conversione l'onda può superare lo 0 tra i campioni",
+    "Per rispettare la legge"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "SJmduMsWsWk",
+   "inizio": 747,
+   "fine": 812,
+   "canale": "LPXI by Marco Zanoni",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-1jehrBHpuJs-62",
+  "titolo": "dBFS: lo zero che non puoi superare",
+  "argomento": "musica",
+  "capitolo": "Fisica del suono",
+  "cosaImpari": "dBFS vuol dire 'decibel full scale': nel digitale 0 dBFS è il massimo assoluto. Oltre non c'è niente, solo clipping: il suono si rompe. Si può lavorare più bassi senza paura, perché nel digitale il rumore di fondo è minimo.",
+  "fonte": "LPXI by Marco Zanoni · YouTube",
+  "quiz": {
+   "domanda": "Cosa succede se un segnale digitale supera 0 dBFS?",
+   "risposte": [
+    "Diventa più caldo",
+    "Va in clipping e si distorce",
+    "Niente, si alza e basta"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "1jehrBHpuJs",
+   "inizio": 62,
+   "fine": 108,
+   "canale": "LPXI by Marco Zanoni",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-M9jKrn-PNkk-425",
+  "titolo": "Do7 e Domaj7: cosa vuol dire quel numero",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "Il numero indica una nota aggiunta. Se tra la settima e l'ottava c'è un tono hai un accordo di settima (Do7, con Sib); se c'è solo un semitono è una settima maggiore (Domaj7, con Si).",
+  "fonte": "Dennis Giorgi · YouTube",
+  "quiz": {
+   "domanda": "Che nota aggiunge un Do7 alla triade Do-Mi-Sol?",
+   "risposte": [
+    "Si",
+    "Sib",
+    "La"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "M9jKrn-PNkk",
+   "inizio": 425,
+   "fine": 470,
+   "canale": "Dennis Giorgi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-EwTyCOP1VWY-125",
+  "titolo": "Il livello giusto quando registri",
+  "argomento": "musica",
+  "capitolo": "Registrazione",
+  "cosaImpari": "Non serve registrare più forte possibile: un buon livello medio è intorno a -22/-18 dBFS, nella zona verde del meter. In una stanza non trattata stai vicino al microfono (meno riverbero) e usa un filtro anti-pop.",
+  "fonte": "Icona Boi · YouTube",
+  "quiz": {
+   "domanda": "Qual è un buon livello medio di registrazione?",
+   "risposte": [
+    "Vicino a 0 dBFS",
+    "Intorno a -18 dBFS",
+    "-60 dBFS"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "EwTyCOP1VWY",
+   "inizio": 125,
+   "fine": 168,
+   "canale": "Icona Boi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-2Ywi2Va6RuQ-175",
+  "titolo": "Il sidechain",
+  "argomento": "musica",
+  "capitolo": "Compressione",
+  "cosaImpari": "È un compressore comandato da un altro suono: come se la mamma ti dicesse di abbassare perché il vicino ha lo stereo alto. Esempio classico: la cassa (kick) fa abbassare il basso ogni volta che suona, per fargli spazio.",
+  "fonte": "REAPERIANI · YouTube",
+  "quiz": {
+   "domanda": "Nel sidechain classico, cosa fa abbassare il basso?",
+   "risposte": [
+    "La voce",
+    "La cassa (kick)",
+    "Il riverbero"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "2Ywi2Va6RuQ",
+   "inizio": 175,
+   "fine": 210,
+   "canale": "REAPERIANI",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-9VMueYH8dmg-290",
+  "titolo": "Melodia e armonia non sono la stessa cosa",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "La melodia è una nota alla volta che si muove nel tempo, come quando canti. L'armonia sono più note suonate insieme, come un accordo al pianoforte. Nelle canzoni si intrecciano.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Cos'è l'armonia?",
+   "risposte": [
+    "Una nota alla volta",
+    "Più note suonate contemporaneamente",
+    "Il ritmo della batteria"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "9VMueYH8dmg",
+   "inizio": 290,
+   "fine": 336,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-POxfN5F13-M-399",
+  "titolo": "-18, -12, -6: quanto margine lasciare",
+  "argomento": "musica",
+  "capitolo": "Registrazione",
+  "cosaImpari": "Quei numeri indicano il picco massimo della registrazione. Registrare a -12 vuol dire avere 12 dB di spazio prima dello 0, dove c'è il clipping: margine per compressore ed equalizzatore, che alzano il livello. Per una voce pulita: picchi tra -18 e -12.",
+  "fonte": "Alessandro Mazzù · YouTube",
+  "quiz": {
+   "domanda": "Cosa vuol dire registrare con picchi a -12 dB?",
+   "risposte": [
+    "Avere 12 dB di margine prima del clipping",
+    "Registrare 12 tracce",
+    "Un volume di 12 su 100"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "POxfN5F13-M",
+   "inizio": 399,
+   "fine": 465,
+   "canale": "Alessandro Mazzù",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-9VMueYH8dmg-529",
+  "titolo": "I quattro accordi di mille canzoni",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "Primo, sesto, quarto e quinto grado (in Do: Do, La minore, Fa, Sol) stanno dietro a brani come Stand by Me e Sapore di sale. Funzionano perché rispettano la 'grammatica' della musica: casa, sospensione, tensione, ritorno.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "In Do maggiore, quali sono gli accordi del giro I-VI-IV-V?",
+   "risposte": [
+    "Do, La minore, Fa, Sol",
+    "Do, Re, Mi, Fa",
+    "La, Mi, Re, Do"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "9VMueYH8dmg",
+   "inizio": 529,
+   "fine": 606,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-POxfN5F13-M-491",
+  "titolo": "Gain troppo alto o troppo basso: i due errori",
+  "argomento": "musica",
+  "capitolo": "Registrazione",
+  "cosaImpari": "Troppo alto: vai in clip e la registrazione è rovinata, non si recupera. Troppo basso: quando dopo alzi il volume, alzi anche il rumore di fondo di microfono e scheda audio. Serve la via di mezzo.",
+  "fonte": "Alessandro Mazzù · YouTube",
+  "quiz": {
+   "domanda": "Qual è il problema di registrare con gain troppo basso?",
+   "risposte": [
+    "Va in clipping",
+    "Alzandolo dopo alzi anche il rumore di fondo",
+    "Nessuno"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "POxfN5F13-M",
+   "inizio": 491,
+   "fine": 565,
+   "canale": "Alessandro Mazzù",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-5LsZzClKp0g-340",
+  "titolo": "L'autotune è nato per cercare il petrolio",
+  "argomento": "musica",
+  "capitolo": "Registrazione",
+  "cosaImpari": "Andy Hildebrand ripuliva le frequenze delle onde sismiche usate per trovare petrolio. Essendo anche musicista, applicò lo stesso principio alla voce: così nasce l'autotune, che sposta la voce sulla nota giusta.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Da quale lavoro è nata la tecnologia dell'autotune?",
+   "risposte": [
+    "Dalla ricerca di petrolio con le onde sismiche",
+    "Dagli studi sul canto degli uccelli",
+    "Dai radar degli aerei"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "5LsZzClKp0g",
+   "inizio": 340,
+   "fine": 404,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-i9z6MwZqz8A-488",
+  "titolo": "Come costruire un giro di accordi",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "Pensa in tre ruoli: risoluzione (I grado), preparazione (IV o II) e tensione (V, anche con la settima). Parti da casa, prepari, crei tensione e torni: ad esempio I - IV - II - V7 - I.",
+  "fonte": "Gabriele Medeot · YouTube",
+  "quiz": {
+   "domanda": "Quale grado crea la tensione che vuole tornare 'a casa'?",
+   "risposte": [
+    "Il I",
+    "Il V",
+    "Il IV"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "i9z6MwZqz8A",
+   "inizio": 488,
+   "fine": 545,
+   "canale": "Gabriele Medeot",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-kgYs6XTIYp8-384",
+  "titolo": "La relativa minore",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "Ogni tonalità maggiore ha una 'sorella' minore con le stesse note: la trovi sulla sesta nota della scala (o un tono e mezzo sotto). Do maggiore e La minore non hanno alterazioni; Sol maggiore e Mi minore hanno un Fa#.",
+  "fonte": "Sognandoilpiano · YouTube",
+  "quiz": {
+   "domanda": "Qual è la relativa minore di Do maggiore?",
+   "risposte": [
+    "Mi minore",
+    "La minore",
+    "Re minore"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "kgYs6XTIYp8",
+   "inizio": 384,
+   "fine": 435,
+   "canale": "Sognandoilpiano",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-kgYs6XTIYp8-535",
+  "titolo": "Circolo delle quinte: l'ordine dei diesis",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "I diesis arrivano sempre in quest'ordine: Fa, Do, Sol, Re, La, Mi, Si. I bemolli nell'ordine opposto: Si, Mi, La, Re, Sol, Do, Fa. Se una tonalità ha 2 diesis sono Fa e Do; se ha 1 bemolle è Si.",
+  "fonte": "Sognandoilpiano · YouTube",
+  "quiz": {
+   "domanda": "In una tonalità con due diesis, quali note sono alterate?",
+   "risposte": [
+    "Fa e Do",
+    "Si e Mi",
+    "Do e Sol"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "kgYs6XTIYp8",
+   "inizio": 535,
+   "fine": 604,
+   "canale": "Sognandoilpiano",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-IbzqBr_YqWQ-14",
+  "titolo": "BPM, battute e il 4/4",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "I BPM sono i battiti al minuto (il metronomo). Ogni battito è un quarto. Lo spartito si divide in battute: in 4/4, il tempo più usato nel pop, ogni battuta contiene quattro quarti.",
+  "fonte": "Dennis Giorgi · YouTube",
+  "quiz": {
+   "domanda": "In un tempo 4/4, quanti quarti ci sono in ogni battuta?",
+   "risposte": [
+    "Tre",
+    "Quattro",
+    "Otto"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "IbzqBr_YqWQ",
+   "inizio": 14,
+   "fine": 100,
+   "canale": "Dennis Giorgi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-IbzqBr_YqWQ-118",
+  "titolo": "Semiminima, minima e il punto",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "Contando in quarti: semiminima = 1, minima = 2, minima puntata = 3, semibreve = 4 (una battuta intera di 4/4). Il punto accanto a una nota ne allunga la durata della metà.",
+  "fonte": "Dennis Giorgi · YouTube",
+  "quiz": {
+   "domanda": "Quanto dura una minima puntata (in quarti)?",
+   "risposte": [
+    "2",
+    "3",
+    "4"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "IbzqBr_YqWQ",
+   "inizio": 118,
+   "fine": 178,
+   "canale": "Dennis Giorgi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-s5dSvli8ZFw-107",
+  "titolo": "3/4 o 6/8? Tempi semplici e composti",
+  "argomento": "musica",
+  "capitolo": "Teoria musicale",
+  "cosaImpari": "La pulsazione è il battito che tieni col piede; la suddivisione è come dividi ogni battito. Se si divide in due il tempo è semplice (2/4, 3/4, 4/4), se in tre è composto (6/8, 9/8, 12/8).",
+  "fonte": "Stefano Rossi · YouTube",
+  "quiz": {
+   "domanda": "Il 6/8 è un tempo...",
+   "risposte": [
+    "Semplice",
+    "Composto",
+    "Irregolare"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "s5dSvli8ZFw",
+   "inizio": 107,
+   "fine": 170,
+   "canale": "Stefano Rossi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-4hKC58n1LAQ-55",
+  "titolo": "I Vichinghi non avevano elmi con le corna",
+  "argomento": "storia",
+  "capitolo": "Medioevo",
+  "cosaImpari": "In battaglia non li usavano: sarebbero stati scomodissimi, forse erano solo cerimoniali. E non erano soltanto guerrieri feroci: avevano una cultura e una società complesse.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "I Vichinghi usavano elmi con le corna in battaglia?",
+   "risposte": [
+    "Sì, sempre",
+    "No, al massimo in cerimonia",
+    "Solo i re"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "4hKC58n1LAQ",
+   "inizio": 55,
+   "fine": 100,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-jRKLYBnxEe0-221",
+  "titolo": "Il 'certificato di nascita' dell'italiano",
+  "argomento": "storia",
+  "capitolo": "Medioevo",
+  "cosaImpari": "Il Placito Capuano del 960 è una sentenza su terre contese dal monastero di Montecassino. Un testimone giura in volgare: 'Sao ko kelle terre...'. È considerato il primo documento in italiano volgare.",
+  "fonte": "Francesca Zampieri · YouTube",
+  "quiz": {
+   "domanda": "Qual è considerato il primo documento in volgare italiano?",
+   "risposte": [
+    "La Divina Commedia",
+    "Il Placito Capuano del 960",
+    "Il Cantico delle creature"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "jRKLYBnxEe0",
+   "inizio": 221,
+   "fine": 300,
+   "canale": "Francesca Zampieri",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-gqIENJlRdRw-158",
+  "titolo": "Le statue dell'Isola di Pasqua 'camminavano'",
+  "argomento": "storia",
+  "capitolo": "Mondi lontani",
+  "cosaImpari": "Secondo un'ipotesi, i Moai venivano spostati in piedi con tre gruppi di persone e tre corde: uno dietro per non farli cadere, due ai lati che tiravano a turno. La statua oscillava e avanzava come se camminasse.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Come potevano essere spostati i Moai secondo questa ipotesi?",
+   "risposte": [
+    "Trascinati sdraiati su sabbia bagnata",
+    "Fatti oscillare in piedi con corde, come se camminassero",
+    "Con carri a ruote"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "gqIENJlRdRw",
+   "inizio": 158,
+   "fine": 222,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-m-FONEuOhs0-3283",
+  "titolo": "Le spezie nel Medioevo non coprivano la carne marcia",
+  "argomento": "storia",
+  "capitolo": "Medioevo",
+  "cosaImpari": "È un mito: le spezie costavano così tanto che chi poteva permettersele mangiava carne ottima. Servivano a distinguersi socialmente. Oggi lo zafferano costa più dell'oro al chilo, eppure lo mettiamo nel risotto.",
+  "fonte": "Alessandro Barbero · YouTube",
+  "quiz": {
+   "domanda": "Perché nel Medioevo si usavano tante spezie?",
+   "risposte": [
+    "Per coprire il sapore della carne andata a male",
+    "Per distinguersi socialmente: erano un lusso",
+    "Perché costavano poco"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "m-FONEuOhs0",
+   "inizio": 3283,
+   "fine": 3345,
+   "canale": "Alessandro Barbero",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-40lCd4nLA0M-298",
+  "titolo": "I veri ninja non si vestivano di nero",
+  "argomento": "storia",
+  "capitolo": "Mondi lontani",
+  "cosaImpari": "I ninja erano spie e sabotatori: dovevano passare inosservati, vestirsi come la gente del posto e parlarne il dialetto, a volte aspettando anni. Il costume nero forse solo di notte. Usavano poco la katana, troppo grande da nascondere.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Perché i ninja di solito NON si vestivano di nero?",
+   "risposte": [
+    "Perché il nero era riservato ai samurai",
+    "Perché dovevano confondersi con la gente comune",
+    "Perché il tessuto nero costava troppo"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "40lCd4nLA0M",
+   "inizio": 298,
+   "fine": 345,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-YTTyI_34NIY-36",
+  "titolo": "Perché nacque la Rivoluzione industriale",
+  "argomento": "storia",
+  "capitolo": "Rivoluzioni e Ottocento",
+  "cosaImpari": "Nel '700 in Inghilterra i campi producevano di più con meno braccia: i contadini disoccupati andarono in città, nelle fabbriche. Il filatoio di Arkwright (1769) e il lavoro diviso in compiti ripetitivi fecero produrre molto a prezzi più bassi.",
+  "fonte": "Ok Mirko · YouTube",
+  "quiz": {
+   "domanda": "Dove iniziò la Rivoluzione industriale?",
+   "risposte": [
+    "In Francia",
+    "In Inghilterra",
+    "In Italia"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "YTTyI_34NIY",
+   "inizio": 36,
+   "fine": 100,
+   "canale": "Ok Mirko",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-tLorkybSXVM-108",
+  "titolo": "Rivoluzione francese: chi pagava le tasse",
+  "argomento": "storia",
+  "capitolo": "Rivoluzioni e Ottocento",
+  "cosaImpari": "La società era divisa in tre ordini: nobiltà, clero e terzo stato, il 98% della popolazione. Nobili e clero non pagavano le tasse e possedevano gran parte delle terre, mentre i contadini, dopo un cattivo raccolto, soffrivano la fame.",
+  "fonte": "SilverBrain · YouTube",
+  "quiz": {
+   "domanda": "Chi pagava le tasse nella Francia prima della Rivoluzione?",
+   "risposte": [
+    "I nobili",
+    "Il clero",
+    "Il terzo stato"
+   ],
+   "giusta": 2
+  },
+  "youtube": {
+   "id": "tLorkybSXVM",
+   "inizio": 108,
+   "fine": 170,
+   "canale": "SilverBrain",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-tLorkybSXVM-244",
+  "titolo": "Un voto per ordine: la trappola degli Stati Generali",
+  "argomento": "storia",
+  "capitolo": "Rivoluzioni e Ottocento",
+  "cosaImpari": "Ogni ordine aveva un solo voto: il terzo stato, il 98% dei francesi, contava come il 2%. Nobili e clero vincevano sempre 2 a 1, così nessuna riforma li tassava. Il terzo stato allora creò una nuova Assemblea nazionale.",
+  "fonte": "SilverBrain · YouTube",
+  "quiz": {
+   "domanda": "Perché il terzo stato perdeva sempre negli Stati Generali?",
+   "risposte": [
+    "Perché non votava",
+    "Perché ogni ordine aveva un voto e nobili e clero si alleavano",
+    "Perché decideva il re"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "tLorkybSXVM",
+   "inizio": 244,
+   "fine": 289,
+   "canale": "SilverBrain",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-YTTyI_34NIY-196",
+  "titolo": "Il prezzo della Rivoluzione industriale",
+  "argomento": "storia",
+  "capitolo": "Rivoluzioni e Ottocento",
+  "cosaImpari": "Operai, donne e bambini lavoravano fino a 80 ore a settimana per salari bassissimi. Alcuni distrussero le macchine, credendole la causa della loro povertà: il luddismo. L'Inghilterra partì prima grazie alle colonie, che davano materie prime e compravano merci.",
+  "fonte": "Ok Mirko · YouTube",
+  "quiz": {
+   "domanda": "Come si chiamò la protesta di chi distruggeva le macchine?",
+   "risposte": [
+    "Luddismo",
+    "Cartismo",
+    "Socialismo"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "YTTyI_34NIY",
+   "inizio": 196,
+   "fine": 258,
+   "canale": "Ok Mirko",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-2Y0RgQmmESI-188",
+  "titolo": "La Svizzera non scelse di essere neutrale",
+  "argomento": "storia",
+  "capitolo": "Rivoluzioni e Ottocento",
+  "cosaImpari": "La neutralità le fu imposta nel 1815, al Congresso di Vienna, dalle grandi potenze. Il motivo era geopolitico: un paese cuscinetto tra francesi, tedeschi e austriaci proteggeva i confini di tutti.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Perché le potenze europee imposero la neutralità alla Svizzera?",
+   "risposte": [
+    "Per punirla dopo Napoleone",
+    "Per avere un paese cuscinetto tra popoli spesso in guerra",
+    "Perché lo chiesero le banche svizzere"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "2Y0RgQmmESI",
+   "inizio": 188,
+   "fine": 236,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-Y01Ap34a1m8-427",
+  "titolo": "L'uomo sopravvissuto a una sbarra nel cranio",
+  "argomento": "storia",
+  "capitolo": "Rivoluzioni e Ottocento",
+  "cosaImpari": "Nel 1848 una sbarra di ferro trapassò la testa di Phineas Gage dalla guancia alla sommità del cranio. Sopravvisse perché colpì solo il lobo frontale sinistro, evitando i grandi vasi e le aree di linguaggio e movimento.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Perché Phineas Gage riuscì a parlare e muoversi subito dopo l'incidente?",
+   "risposte": [
+    "Perché la sbarra non toccò il cervello",
+    "Perché colpì il lobo frontale sinistro ma evitò le aree di linguaggio e movimento",
+    "Perché fu operato subito"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "Y01Ap34a1m8",
+   "inizio": 427,
+   "fine": 502,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-1gthxRO-yBE-456",
+  "titolo": "L'italiano che rubò la Gioconda",
+  "argomento": "storia",
+  "capitolo": "Novecento",
+  "cosaImpari": "L'unico vero furto della Gioconda avvenne nel 1911: Vincenzo Perugia, imbianchino al Louvre, la portò via credendo che l'avesse rubata Napoleone. Non era vero (la Francia la comprò), ma il furto la rese il quadro più famoso del mondo.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Chi rubò davvero la Gioconda?",
+   "risposte": [
+    "Napoleone",
+    "Vincenzo Perugia, un imbianchino italiano",
+    "Pablo Picasso"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "1gthxRO-yBE",
+   "inizio": 456,
+   "fine": 515,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-bI7oJOMecAg-264",
+  "titolo": "La corsa al Polo Sud: la bandiera sbagliata",
+  "argomento": "storia",
+  "capitolo": "Novecento",
+  "cosaImpari": "Scott arrivò al Polo Sud il 17 gennaio 1912 e trovò una bandiera norvegese: Amundsen era arrivato più di un mese prima, il 14 dicembre 1911, usando sci e cani da slitta. Scott e i suoi morirono sulla via del ritorno.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Chi raggiunse per primo il Polo Sud?",
+   "risposte": [
+    "Robert Falcon Scott",
+    "Roald Amundsen",
+    "Ernest Shackleton"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "bI7oJOMecAg",
+   "inizio": 264,
+   "fine": 330,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-1wCaEB2258g-35",
+  "titolo": "Le cause della Prima guerra mondiale",
+  "argomento": "storia",
+  "capitolo": "Novecento",
+  "cosaImpari": "Tensioni economiche e politiche tra le potenze, la corsa alle colonie e agli armamenti, i nazionalismi nei Balcani sotto l'Austria-Ungheria. La scintilla: il 28 giugno 1914 a Sarajevo lo studente serbo Gavrilo Princip uccide l'arciduca Francesco Ferdinando.",
+  "fonte": "Magistralis Mens · YouTube",
+  "quiz": {
+   "domanda": "Quale evento fece scoppiare la Prima guerra mondiale?",
+   "risposte": [
+    "L'invasione della Polonia",
+    "L'attentato di Sarajevo all'arciduca Francesco Ferdinando",
+    "La presa della Bastiglia"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "1wCaEB2258g",
+   "inizio": 35,
+   "fine": 121,
+   "canale": "Magistralis Mens",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-LuMNSSnLR6o-369",
+  "titolo": "Perché i nazisti non fecero la bomba atomica",
+  "argomento": "storia",
+  "capitolo": "Novecento",
+  "cosaImpari": "Molti dei migliori fisici erano fuggiti dal regime (ebrei o contrari alla dittatura) e lavoravano negli USA. In Germania c'erano gruppi separati in competizione, e il budget era circa mille volte più basso del Progetto Manhattan.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Quale fu uno dei motivi per cui la Germania non costruì la bomba?",
+   "risposte": [
+    "Non aveva uranio",
+    "Molti dei migliori fisici erano fuggiti e il budget era mille volte più basso",
+    "Hitler non ne sapeva nulla"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "LuMNSSnLR6o",
+   "inizio": 369,
+   "fine": 414,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-A4zZZNx-ZMU-0",
+  "titolo": "Cos'è stata la Guerra fredda",
+  "argomento": "storia",
+  "capitolo": "Novecento",
+  "cosaImpari": "Una lunga tensione tra Stati Uniti e Unione Sovietica, dal 1947 al 1991, senza mai una guerra diretta tra le due superpotenze. Ha coinvolto la politica di moltissimi paesi del mondo.",
+  "fonte": "Prof. Daniele Coluzzi · YouTube",
+  "quiz": {
+   "domanda": "Perché si chiama 'fredda'?",
+   "risposte": [
+    "Perché si combatté in Siberia",
+    "Perché USA e URSS non si scontrarono mai direttamente",
+    "Perché durò pochi inverni"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "A4zZZNx-ZMU",
+   "inizio": 0,
+   "fine": 45,
+   "canale": "Prof. Daniele Coluzzi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-A4zZZNx-ZMU-218",
+  "titolo": "La cortina di ferro",
+  "argomento": "storia",
+  "capitolo": "Novecento",
+  "cosaImpari": "Churchill parlò di una 'cortina di ferro' che divideva l'Europa in due blocchi, occidentale e orientale. Gli Stati Uniti risposero con la politica di contenimento: aiuti economici ai paesi europei per legarli a sé e frenare il comunismo.",
+  "fonte": "Prof. Daniele Coluzzi · YouTube",
+  "quiz": {
+   "domanda": "Cosa fu la politica di contenimento?",
+   "risposte": [
+    "Muri costruiti in Europa",
+    "Aiuti economici USA per frenare l'espansione sovietica",
+    "Un trattato di pace"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "A4zZZNx-ZMU",
+   "inizio": 218,
+   "fine": 270,
+   "canale": "Prof. Daniele Coluzzi",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-RDLaITwXBVk-15",
+  "titolo": "Perché il touchscreen non funziona con i guanti",
+  "argomento": "scienza",
+  "capitolo": "Tecnologia quotidiana",
+  "cosaImpari": "Sotto il vetro c'è uno strato di ossido di indio e stagno percorso da corrente. Il dito, che conduce elettricità, cambia il campo elettrico in quel punto e il telefono registra il tocco. I guanti non conducono, quindi niente.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Perché con i guanti normali il touchscreen non risponde?",
+   "risposte": [
+    "Perché sono troppo spessi",
+    "Perché il tessuto non conduce elettricità",
+    "Perché lo schermo sente il calore"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "RDLaITwXBVk",
+   "inizio": 15,
+   "fine": 78,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-ac5iJvjd2pI-262",
+  "titolo": "Senza Einstein il GPS sbaglierebbe",
+  "argomento": "scienza",
+  "capitolo": "Spazio e fisica",
+  "cosaImpari": "I satelliti GPS hanno orologi atomici, ma lassù il tempo scorre diversamente che a terra, come dice la relatività. Senza correzioni gli orologi non sarebbero sincronizzati e la posizione sarebbe sballata.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Perché gli orologi dei satelliti GPS vanno corretti?",
+   "risposte": [
+    "Perché si scaricano le batterie",
+    "Perché nello spazio il tempo scorre diversamente (relatività)",
+    "Per il cambio dell'ora legale"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "ac5iJvjd2pI",
+   "inizio": 262,
+   "fine": 345,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-6oPTIW4P9s0-64",
+  "titolo": "Come ti misura l'autovelox",
+  "argomento": "scienza",
+  "capitolo": "Tecnologia quotidiana",
+  "cosaImpari": "L'autovelox a fotocellula ha due laser paralleli: quando l'auto taglia il primo parte un cronometro, al secondo si ferma. Conoscendo la distanza tra i fasci calcola spazio diviso tempo e, se sei troppo veloce, scatta la foto.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Come calcola la velocità un autovelox a fotocellula?",
+   "risposte": [
+    "Misura il rumore del motore",
+    "Spazio tra due laser diviso il tempo impiegato",
+    "Legge il tachimetro via radio"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "6oPTIW4P9s0",
+   "inizio": 64,
+   "fine": 138,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-SSvCMJTLbFY-190",
+  "titolo": "Internet viaggia in fili di vetro sotto il mare",
+  "argomento": "scienza",
+  "capitolo": "Internet e AI",
+  "cosaImpari": "La fibra ottica è un filo di vetro sottile come un capello. Gli 1 sono impulsi di luce e gli 0 assenza di luce; la luce resta intrappolata nel filo rimbalzando sulle pareti (riflessione interna totale).",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Cosa viaggia dentro una fibra ottica?",
+   "risposte": [
+    "Corrente elettrica",
+    "Impulsi di luce",
+    "Onde sonore"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "SSvCMJTLbFY",
+   "inizio": 190,
+   "fine": 242,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-5baSHczsSzE-92",
+  "titolo": "Come impara un chatbot",
+  "argomento": "scienza",
+  "capitolo": "Internet e AI",
+  "cosaImpari": "Nella prima fase si danno al modello testi con parole nascoste e deve indovinarle, come un gioco di enigmistica. A ogni errore si aggiustano i suoi parametri: così impara lingua, grammatica e tante nozioni.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Come impara la lingua un chatbot nella prima fase?",
+   "risposte": [
+    "Ascoltando conversazioni al telefono",
+    "Indovinando parole nascoste nei testi",
+    "Leggendo un dizionario in ordine"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "5baSHczsSzE",
+   "inizio": 92,
+   "fine": 140,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-dHhk195razs-488",
+  "titolo": "La crittografia di WhatsApp spiegata con un lucchetto",
+  "argomento": "scienza",
+  "capitolo": "Internet e AI",
+  "cosaImpari": "Nella crittografia asimmetrica distribuisci a tutti copie di un lucchetto aperto (chiave pubblica): chiunque può chiuderci dentro un messaggio, ma solo tu hai la chiave per aprirlo (chiave privata).",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Nella crittografia asimmetrica, cosa può fare chiunque con la tua chiave pubblica?",
+   "risposte": [
+    "Leggere i tuoi messaggi",
+    "Cifrare un messaggio che solo tu potrai aprire",
+    "Cambiare la tua password"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "dHhk195razs",
+   "inizio": 488,
+   "fine": 540,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-3MUstQxdi34-288",
+  "titolo": "Perché si chiama Bluetooth",
+  "argomento": "scienza",
+  "capitolo": "Tecnologia quotidiana",
+  "cosaImpari": "Prende il nome da Harald 'Dente Blu', re vichingo che unì Danimarca e Norvegia e aveva un dente morto bluastro. Il simbolo unisce le sue iniziali in rune: H e B.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Da chi prende il nome il Bluetooth?",
+   "risposte": [
+    "Dall'inventore svedese",
+    "Da un re vichingo con un dente bluastro",
+    "Dal colore del primo telefono"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "3MUstQxdi34",
+   "inizio": 288,
+   "fine": 336,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-jikUCbpGs6o-14",
+  "titolo": "Il tempo non è uguale per tutti",
+  "argomento": "scienza",
+  "capitolo": "Spazio e fisica",
+  "cosaImpari": "Einstein scoprì che il tempo non è assoluto: a restare costante è la velocità della luce, circa 300.000 km al secondo, per chiunque la misuri. Per mantenerla costante, tempo e spazio devono adattarsi.",
+  "fonte": "Studenti · YouTube",
+  "quiz": {
+   "domanda": "Secondo la relatività ristretta, cosa resta sempre uguale per tutti?",
+   "risposte": [
+    "Il tempo",
+    "La velocità della luce",
+    "La lunghezza degli oggetti"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "jikUCbpGs6o",
+   "inizio": 14,
+   "fine": 78,
+   "canale": "Studenti",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-EX11qpy5vGU-300",
+  "titolo": "Il ferro nel tuo sangue viene dalle stelle",
+  "argomento": "scienza",
+  "capitolo": "Spazio e fisica",
+  "cosaImpari": "Una stella vive in equilibrio tra gravità che schiaccia e fusione nucleare che spinge. Quando la fusione finisce collassa ed esplode in supernova: le onde d'urto fondono nuovi elementi, come il ferro del nostro sangue.",
+  "fonte": "link4universe · YouTube",
+  "quiz": {
+   "domanda": "Cosa tiene in vita una stella?",
+   "risposte": [
+    "L'equilibrio tra gravità e energia della fusione",
+    "L'ossigeno che brucia",
+    "La rotazione attorno alla galassia"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "EX11qpy5vGU",
+   "inizio": 300,
+   "fine": 366,
+   "canale": "link4universe",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-V-tqSviMgpM-290",
+  "titolo": "Dormire fa ricordare di più",
+  "argomento": "scienza",
+  "capitolo": "Corpo e pianeta",
+  "cosaImpari": "Negli studi, chi dorme abbastanza ricorda spesso il 20-30% di informazioni in più, anche a giorni o settimane di distanza: il sonno consolida la memoria a lungo termine. Sotto esame bisognerebbe dormire di più, non meno.",
+  "fonte": "Entropy for Life · YouTube",
+  "quiz": {
+   "domanda": "Cosa fa il sonno per la memoria?",
+   "risposte": [
+    "Cancella le informazioni inutili del giorno",
+    "Consolida ciò che hai imparato nella memoria a lungo termine",
+    "Niente, conta solo quanto studi"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "V-tqSviMgpM",
+   "inizio": 290,
+   "fine": 353,
+   "canale": "Entropy for Life",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-K5DULblHkkk-156",
+  "titolo": "Il trucco del 3x2 e dello scaffale",
+  "argomento": "soldi",
+  "capitolo": "Psicologia degli acquisti",
+  "cosaImpari": "Il 3x2 è solo uno sconto del 33%, ma ti fa sentire regalato un prodotto e te ne fa comprare tre. E i prodotti su cui il supermercato guadagna di più stanno all'altezza degli occhi; quelli economici in basso o in alto.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Dove mette il supermercato i prodotti su cui guadagna di più?",
+   "risposte": [
+    "Nello scaffale più basso",
+    "All'altezza degli occhi",
+    "Vicino all'uscita"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "K5DULblHkkk",
+   "inizio": 156,
+   "fine": 219,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-K5DULblHkkk-233",
+  "titolo": "Perché i prezzi finiscono in ,99",
+  "argomento": "soldi",
+  "capitolo": "Psicologia degli acquisti",
+  "cosaImpari": "4,99 invece di 5 funziona perché il cervello, per fare in fretta, guarda la prima cifra e arrotonda per difetto: ci sembra che costi sensibilmente meno, anche se è un centesimo.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Perché 4,99 € ci sembra molto meno di 5 €?",
+   "risposte": [
+    "Perché c'è l'IVA inclusa",
+    "Perché il cervello guarda la prima cifra e arrotonda per difetto",
+    "Perché è una legge sui prezzi"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "K5DULblHkkk",
+   "inizio": 233,
+   "fine": 267,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-Rn6EndC4oB8-63",
+  "titolo": "La regola 50/30/20 per i tuoi soldi",
+  "argomento": "soldi",
+  "capitolo": "Gestire i soldi",
+  "cosaImpari": "Del tuo netto: 50% per le necessità (casa, cibo, bollette), 30% per i desideri (cene, viaggi, hobby), 20% da risparmiare. È un punto di partenza semplice; poi conviene anche investire.",
+  "fonte": "Riccardo Zanetti · YouTube",
+  "quiz": {
+   "domanda": "Nella regola 50/30/20, a cosa va il 30%?",
+   "risposte": [
+    "Alle necessità",
+    "Ai desideri",
+    "Al risparmio"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "Rn6EndC4oB8",
+   "inizio": 63,
+   "fine": 140,
+   "canale": "Riccardo Zanetti",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-X8TrEzdVI-M-80",
+  "titolo": "Interesse composto: interessi che fanno interessi",
+  "argomento": "soldi",
+  "capitolo": "Gestire i soldi",
+  "cosaImpari": "10.000 € al 5%: il primo anno guadagni 500 €. Se li reinvesti, il secondo anno il 5% si calcola su 10.500 € e guadagni 525 €. Ogni anno la base cresce, per questo conviene iniziare presto.",
+  "fonte": "Investiamo · YouTube",
+  "quiz": {
+   "domanda": "Perché il secondo anno si guadagna più del primo?",
+   "risposte": [
+    "Perché il tasso sale",
+    "Perché gli interessi reinvestiti fanno crescere la base",
+    "Perché la banca regala un bonus"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "X8TrEzdVI-M",
+   "inizio": 80,
+   "fine": 145,
+   "canale": "Investiamo",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-kvJtsJvywR4-245",
+  "titolo": "Inflazione: chi ci guadagna e chi ci perde",
+  "argomento": "soldi",
+  "capitolo": "Gestire i soldi",
+  "cosaImpari": "Con l'inflazione chi ha un debito (es. un mutuo) ci guadagna, perché la rata pesa sempre meno. Chi tiene i soldi fermi sul conto ci perde: la cifra resta uguale ma compra meno cose. E se lo stipendio non cresce, sei più povero.",
+  "fonte": "Investiamo · YouTube",
+  "quiz": {
+   "domanda": "Con inflazione alta, chi tende a guadagnarci?",
+   "risposte": [
+    "Chi ha soldi fermi sul conto",
+    "Chi ha un debito, come un mutuo",
+    "Chi presta soldi"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "kvJtsJvywR4",
+   "inizio": 245,
+   "fine": 306,
+   "canale": "Investiamo",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-_9F_poakooE-3",
+  "titolo": "Cosa sono gli ETF",
+  "argomento": "soldi",
+  "capitolo": "Investire",
+  "cosaImpari": "Un ETF è un fondo quotato in borsa che replica automaticamente un indice (azioni, obbligazioni, materie prime). Si compra e vende come un'azione. Il primo, nel 1993, copiava l'S&P 500.",
+  "fonte": "Investiamo · YouTube",
+  "quiz": {
+   "domanda": "Cosa fa un ETF?",
+   "risposte": [
+    "Sceglie a mano le azioni migliori",
+    "Replica automaticamente un indice",
+    "Garantisce un rendimento fisso"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "_9F_poakooE",
+   "inizio": 3,
+   "fine": 64,
+   "canale": "Investiamo",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-fOMzn9FaMfo-64",
+  "titolo": "Shrinkflation: stesso prezzo, meno prodotto",
+  "argomento": "soldi",
+  "capitolo": "Psicologia degli acquisti",
+  "cosaImpari": "È un aumento di prezzo nascosto: la confezione contiene meno prodotto ma costa uguale. Funziona perché guardiamo il prezzo sullo scaffale e raramente la quantità sul retro. Difesa: confronta il prezzo al kg.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Come ci si difende dalla shrinkflation?",
+   "risposte": [
+    "Comprando solo offerte",
+    "Guardando il prezzo al chilo o al litro",
+    "Comprando confezioni più grandi"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "fOMzn9FaMfo",
+   "inizio": 64,
+   "fine": 125,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-0idgN7RtSZE-112",
+  "titolo": "Perché il volo costa di più se aspetti",
+  "argomento": "soldi",
+  "capitolo": "Psicologia degli acquisti",
+  "cosaImpari": "Le compagnie dividono i posti in fasce di prezzo: i primi a comprare pagano meno, gli ultimi molto di più. I prezzi seguono la domanda e salgono di solito uno o due mesi prima della partenza.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Perché lo stesso volo cambia prezzo nel tempo?",
+   "risposte": [
+    "Per il costo del carburante di quel giorno",
+    "Perché segue la domanda e le fasce di posti vendute",
+    "È casuale"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "0idgN7RtSZE",
+   "inizio": 112,
+   "fine": 175,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-4yR4Edt3leU-401",
+  "titolo": "'Ultime 2 camere!': il principio di scarsità",
+  "argomento": "soldi",
+  "capitolo": "Psicologia degli acquisti",
+  "cosaImpari": "Diamo più valore a ciò che sembra scarso o limitato. 'Solo 2 camere rimaste' o 'offerta a tempo' creano urgenza e ci fanno decidere subito, senza confrontare. È uno dei 6 principi della persuasione di Cialdini.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Cosa sfrutta la scritta 'rimaste solo 2 camere'?",
+   "risposte": [
+    "Il principio di reciprocità",
+    "Il principio di scarsità",
+    "Il principio di autorità"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "4yR4Edt3leU",
+   "inizio": 401,
+   "fine": 465,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-vHXRXO2JETc-88",
+  "titolo": "Cos'è un'azione, spiegato con una falegnameria",
+  "argomento": "soldi",
+  "capitolo": "Investire",
+  "cosaImpari": "Un'azione è un pezzetto della proprietà di un'azienda. Chi la possiede è socio a tutti gli effetti e ha diritto a una parte dei profitti: il dividendo. L'azienda vende azioni per raccogliere soldi e crescere.",
+  "fonte": "Pietro Michelangeli · YouTube",
+  "quiz": {
+   "domanda": "Come si chiama la parte di profitti che spetta a chi ha un'azione?",
+   "risposte": [
+    "Interesse",
+    "Dividendo",
+    "Cedola fissa"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "vHXRXO2JETc",
+   "inizio": 88,
+   "fine": 148,
+   "canale": "Pietro Michelangeli",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-h-p_By6Kb0w-94",
+  "titolo": "Il bias di conferma",
+  "argomento": "storia",
+  "capitolo": "Mente e società",
+  "cosaImpari": "Quando siamo già convinti di qualcosa cerchiamo solo le informazioni che ci danno ragione e ignoriamo le altre. Ogni conferma, anche una su cento, rafforza la nostra bolla. È uno dei bias più comuni e difficili da vedere in sé stessi.",
+  "fonte": "Raffaele Gaito · YouTube",
+  "quiz": {
+   "domanda": "Cos'è il bias di conferma?",
+   "risposte": [
+    "Cambiare idea troppo spesso",
+    "Cercare solo informazioni che confermano ciò che pensiamo già",
+    "Fidarsi degli esperti"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "h-p_By6Kb0w",
+   "inizio": 94,
+   "fine": 160,
+   "canale": "Raffaele Gaito",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-h-p_By6Kb0w-288",
+  "titolo": "Il bias del sopravvissuto",
+  "argomento": "storia",
+  "capitolo": "Mente e società",
+  "cosaImpari": "Giudichiamo ascoltando solo chi è 'sopravvissuto'. Se chiedi com'è un'azienda solo a chi ci lavora ancora ed è contento, non senti chi è stato licenziato o se n'è andato: la tua idea sarà falsata.",
+  "fonte": "Raffaele Gaito · YouTube",
+  "quiz": {
+   "domanda": "Cos'è il bias del sopravvissuto?",
+   "risposte": [
+    "Sopravvalutare i rischi",
+    "Basarsi solo sulla parte della storia di chi è rimasto",
+    "Ricordare solo le cose brutte"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "h-p_By6Kb0w",
+   "inizio": 288,
+   "fine": 361,
+   "canale": "Raffaele Gaito",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-I6UMyS67n4Q-162",
+  "titolo": "EQ della voce, mossa 1: il passa-alto",
+  "argomento": "musica",
+  "capitolo": "Equalizzazione",
+  "cosaImpari": "Attiva un filtro passa-alto intorno ai 100 Hz: la voce lì sotto non ha niente di utile, solo rumori (condizionatore, vibrazioni). Togliendoli la traccia è più pulita e le medie, dove sta la chiarezza, emergono.",
+  "fonte": "Logicamentis · YouTube",
+  "quiz": {
+   "domanda": "Dove si mette di solito il passa-alto sulla voce?",
+   "risposte": [
+    "Intorno ai 100 Hz",
+    "Intorno ai 1.000 Hz",
+    "Sopra i 10.000 Hz"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "I6UMyS67n4Q",
+   "inizio": 162,
+   "fine": 240,
+   "canale": "Logicamentis",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-I6UMyS67n4Q-245",
+  "titolo": "EQ della voce, mossa 2: togli il fango",
+  "argomento": "musica",
+  "capitolo": "Equalizzazione",
+  "cosaImpari": "Tra i 400 e i 600 Hz circa si accumulano risonanze sgradevoli, il 'fango'. Abbassarle un po' con una campana rende la voce più chiara. La frequenza esatta cambia: cercala con le orecchie.",
+  "fonte": "Logicamentis · YouTube",
+  "quiz": {
+   "domanda": "In che zona si trova di solito il 'fango' della voce?",
+   "risposte": [
+    "50-80 Hz",
+    "400-600 Hz",
+    "8.000-10.000 Hz"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "I6UMyS67n4Q",
+   "inizio": 245,
+   "fine": 300,
+   "canale": "Logicamentis",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-I6UMyS67n4Q-312",
+  "titolo": "EQ della voce, mossa 3: un po' d'aria",
+  "argomento": "musica",
+  "capitolo": "Equalizzazione",
+  "cosaImpari": "Per ultima cosa aggiungi, con cautela (circa +1,5 dB), un high shelf sopra i 6.000-8.000 Hz: dà 'aria' e rende le parole più comprensibili. Riassunto: passa-alto a 100 Hz, giù a 400-600 Hz, shelf su sopra 6-8 kHz.",
+  "fonte": "Logicamentis · YouTube",
+  "quiz": {
+   "domanda": "A cosa serve l'high shelf sopra i 6-8 kHz sulla voce?",
+   "risposte": [
+    "A dare corpo",
+    "A dare aria e chiarezza",
+    "A togliere rumore"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "I6UMyS67n4Q",
+   "inizio": 312,
+   "fine": 390,
+   "canale": "Logicamentis",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-IZcFr-6TK6s-227",
+  "titolo": "La mappa della voce: corpo e 'scatola'",
+  "argomento": "musica",
+  "capitolo": "Equalizzazione",
+  "cosaImpari": "Tra 100 e 200 Hz c'è il corpo della voce. Tra 200 e 500 Hz la zona 'scatolata', dove finiscono anche le risonanze della stanza: se la voce suona chiusa, si toglie un po' qui. Tra 600 e 1.000 Hz il corpo medio-basso.",
+  "fonte": "LPXI by Marco Zanoni · YouTube",
+  "quiz": {
+   "domanda": "Dove si trova l'effetto 'scatola' nella voce?",
+   "risposte": [
+    "200-500 Hz",
+    "4.000 Hz",
+    "16.000 Hz"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "IZcFr-6TK6s",
+   "inizio": 227,
+   "fine": 290,
+   "canale": "LPXI by Marco Zanoni",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-IZcFr-6TK6s-305",
+  "titolo": "La mappa della voce: presenza e sibilanti",
+  "argomento": "musica",
+  "capitolo": "Equalizzazione",
+  "cosaImpari": "1.500-3.500 Hz: presenza, la voce si avvicina o si allontana (attenzione al nasale). Intorno ai 4 kHz: intelligibilità delle parole, ma anche asprezza. 6 kHz: limpidezza. 7-10 kHz: le sibilanti, le 's'.",
+  "fonte": "LPXI by Marco Zanoni · YouTube",
+  "quiz": {
+   "domanda": "In che zona stanno le sibilanti?",
+   "risposte": [
+    "200-500 Hz",
+    "1.000-2.000 Hz",
+    "7.000-10.000 Hz"
+   ],
+   "giusta": 2
+  },
+  "youtube": {
+   "id": "IZcFr-6TK6s",
+   "inizio": 305,
+   "fine": 382,
+   "canale": "LPXI by Marco Zanoni",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-mPsh_TW_Khs-13",
+  "titolo": "Il riverbero va su un canale a parte",
+  "argomento": "musica",
+  "capitolo": "Riverbero e spazio",
+  "cosaImpari": "Non mettere un riverbero in insert su ogni traccia: le code si impastano. Crea un canale effetti (bus) con il riverbero al 100% 'wet' e mandaci le tracce con una mandata (send): decidi quanto riverbero dare a ciascuna.",
+  "fonte": "Trappo Lone · YouTube",
+  "quiz": {
+   "domanda": "Dove conviene mettere il riverbero?",
+   "risposte": [
+    "In insert su ogni traccia",
+    "Su un bus effetti, usando le mandate",
+    "Solo sul master"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "mPsh_TW_Khs",
+   "inizio": 13,
+   "fine": 60,
+   "canale": "Trappo Lone",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-mPsh_TW_Khs-207",
+  "titolo": "Filtra prima del riverbero",
+  "argomento": "musica",
+  "capitolo": "Riverbero e spazio",
+  "cosaImpari": "Il trucco degli studi Abbey Road: prima del riverbero metti un EQ che taglia bassi e alti. I bassi riverberati impastano il mix, le alte fanno ripetere le sibilanti. Così puoi dare più riverbero senza sporcare.",
+  "fonte": "Trappo Lone · YouTube",
+  "quiz": {
+   "domanda": "Perché tagliare bassi e alti prima del riverbero?",
+   "risposte": [
+    "Per risparmiare memoria",
+    "Per non impastare il mix e non riverberare le sibilanti",
+    "Per alzare il volume"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "mPsh_TW_Khs",
+   "inizio": 207,
+   "fine": 255,
+   "canale": "Trappo Lone",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-mPsh_TW_Khs-337",
+  "titolo": "Il pre-delay tiene chiare le parole",
+  "argomento": "musica",
+  "capitolo": "Riverbero e spazio",
+  "cosaImpari": "Il pre-delay è il tempo che il riverbero aspetta prima di partire. Con qualche decina di millisecondi (es. 30 ms) l'attacco delle sillabe resta pulito e il testo si capisce meglio, soprattutto in un mix denso.",
+  "fonte": "Trappo Lone · YouTube",
+  "quiz": {
+   "domanda": "A cosa serve il pre-delay del riverbero?",
+   "risposte": [
+    "Ad allungare la coda",
+    "A lasciare pulito l'attacco delle parole",
+    "A cambiare la tonalità"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "mPsh_TW_Khs",
+   "inizio": 337,
+   "fine": 384,
+   "canale": "Trappo Lone",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-mPsh_TW_Khs-528",
+  "titolo": "Riverbero troppo lungo = pastone",
+  "argomento": "musica",
+  "capitolo": "Riverbero e spazio",
+  "cosaImpari": "Code lunghe si sovrappongono alle parole successive e impastano tutto. Con parole veloci stai su 1-1,2 secondi: la coda deve spegnersi prima del verso dopo. Se vuoi più profondità, automatizza il riverbero dove c'è spazio.",
+  "fonte": "Trappo Lone · YouTube",
+  "quiz": {
+   "domanda": "Cosa succede con un tempo di riverbero troppo lungo?",
+   "risposte": [
+    "La voce è più chiara",
+    "Le code si sovrappongono e il mix si impasta",
+    "Niente"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "mPsh_TW_Khs",
+   "inizio": 528,
+   "fine": 574,
+   "canale": "Trappo Lone",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-d_2Oq8vpUc4-218",
+  "titolo": "Come riconoscere un'email di phishing",
+  "argomento": "scienza",
+  "capitolo": "Sicurezza digitale",
+  "cosaImpari": "Segnali tipici: urgenza o offerte troppo belle, mittente con un indirizzo strano, link diversi dal sito ufficiale, logo leggermente deformato, errori di ortografia e frasi mezze in inglese.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Quale di questi è un segnale tipico di phishing?",
+   "risposte": [
+    "Il tuo nome e cognome corretti",
+    "Urgenza e indirizzo del mittente strano",
+    "Un'email lunga"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "d_2Oq8vpUc4",
+   "inizio": 218,
+   "fine": 290,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-d_2Oq8vpUc4-363",
+  "titolo": "La banca non ti chiede mai i dati via SMS",
+  "argomento": "scienza",
+  "capitolo": "Sicurezza digitale",
+  "cosaImpari": "Le comunicazioni vere della banca riportano il tuo nome e la tua filiale, e i dati di accesso non vengono mai chiesti via email, SMS o telefono. Nel dubbio cerca il numero sul sito ufficiale e chiama tu.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Come verificare un messaggio sospetto della banca?",
+   "risposte": [
+    "Cliccando sul link del messaggio",
+    "Chiamando il numero trovato sul sito ufficiale",
+    "Rispondendo all'SMS"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "d_2Oq8vpUc4",
+   "inizio": 363,
+   "fine": 396,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-d_2Oq8vpUc4-471",
+  "titolo": "Ci sei cascato? Cosa fare subito",
+  "argomento": "scienza",
+  "capitolo": "Sicurezza digitale",
+  "cosaImpari": "Blocca subito la carta dall'app o chiamando la banca. Se ti hanno già preso soldi chiedi il disconoscimento dell'operazione e fai denuncia alla Polizia Postale. Poi: password diverse per ogni sito e notifiche della banca attive.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Qual è la prima cosa da fare se hai inserito i dati della carta in un sito falso?",
+   "risposte": [
+    "Aspettare",
+    "Bloccare subito la carta",
+    "Cambiare telefono"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "d_2Oq8vpUc4",
+   "inizio": 471,
+   "fine": 548,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-cZ0Htw_pvTI-113",
+  "titolo": "Passkey: addio furti di password",
+  "argomento": "scienza",
+  "capitolo": "Sicurezza digitale",
+  "cosaImpari": "Una passkey autorizza solo i tuoi dispositivi ad accedere: anche se qualcuno ruba la password, senza il dispositivo non entra. Quelle su chiavetta FIDO2 non si possono copiare. Consiglio: comprane due, una di riserva.",
+  "fonte": "Gentiluomo Digitale · YouTube",
+  "quiz": {
+   "domanda": "Perché con una passkey una password rubata non basta?",
+   "risposte": [
+    "Perché la password cambia ogni giorno",
+    "Perché serve anche il tuo dispositivo autorizzato",
+    "Perché è più lunga"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "cZ0Htw_pvTI",
+   "inizio": 113,
+   "fine": 200,
+   "canale": "Gentiluomo Digitale",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-UREtGRsxMOc-111",
+  "titolo": "Le stagioni non dipendono dalla distanza dal Sole",
+  "argomento": "scienza",
+  "capitolo": "Spazio e fisica",
+  "cosaImpari": "Da noi è estate proprio quando la Terra è più lontana dal Sole. Conta l'inclinazione dell'asse terrestre, circa 23,5°: quando il nostro emisfero è inclinato verso il Sole i raggi arrivano più dritti e scaldano di più.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Cosa causa le stagioni?",
+   "risposte": [
+    "La distanza dal Sole",
+    "L'inclinazione dell'asse terrestre",
+    "Le correnti oceaniche"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "UREtGRsxMOc",
+   "inizio": 111,
+   "fine": 170,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-ercMXBTtd74-30",
+  "titolo": "Cos'è un anno luce",
+  "argomento": "scienza",
+  "capitolo": "Spazio e fisica",
+  "cosaImpari": "Non è un tempo ma una distanza: quella che la luce percorre in un anno, circa 9.460 miliardi di km. La luce del Sole ci mette circa 8 minuti ad arrivare (150 milioni di km), quella della Luna circa un secondo.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Un anno luce misura...",
+   "risposte": [
+    "Un tempo",
+    "Una distanza",
+    "Una luminosità"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "ercMXBTtd74",
+   "inizio": 30,
+   "fine": 100,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-O891LHPytbs-64",
+  "titolo": "Quanto fidarsi delle previsioni meteo",
+  "argomento": "scienza",
+  "capitolo": "Corpo e pianeta",
+  "cosaImpari": "Le previsioni per domani sono affidabili circa all'80-90%, a 5 giorni intorno al 50%, a 10 giorni sono solo una tendenza. Eventi brevi e violenti come i temporali sono molto più difficili da prevedere della nebbia.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Quanto sono affidabili le previsioni a 10 giorni?",
+   "risposte": [
+    "Al 90%",
+    "Sono solo una tendenza",
+    "Al 100% se c'è sole"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "O891LHPytbs",
+   "inizio": 64,
+   "fine": 124,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-p3AE_ZDhZGE-173",
+  "titolo": "Dal lordo al netto in busta paga",
+  "argomento": "soldi",
+  "capitolo": "Lavoro e tasse",
+  "cosaImpari": "Dal totale lordo si tolgono i contributi INPS e l'IRPEF (già ridotta dalle detrazioni da lavoro dipendente): quello che resta è il netto. A fine anno si fa il conguaglio, per questo una busta paga può cambiare.",
+  "fonte": "Leonardo Pinna · YouTube",
+  "quiz": {
+   "domanda": "Cosa si toglie dal lordo per arrivare al netto?",
+   "risposte": [
+    "Solo l'IVA",
+    "Contributi INPS e IRPEF",
+    "Le ferie"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "p3AE_ZDhZGE",
+   "inizio": 173,
+   "fine": 234,
+   "canale": "Leonardo Pinna",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-JFDIocY3gKs-0",
+  "titolo": "Il 730: cos'è e come si fa",
+  "argomento": "soldi",
+  "capitolo": "Lavoro e tasse",
+  "cosaImpari": "È la dichiarazione dei redditi dell'anno precedente. Lo trovi già precompilato sul sito dell'Agenzia delle Entrate: se è tutto giusto lo confermi, altrimenti lo modifichi. In alternativa puoi farlo fare a un CAF.",
+  "fonte": "CAF via Granello · YouTube",
+  "quiz": {
+   "domanda": "Dove trovi il 730 già precompilato?",
+   "risposte": [
+    "In banca",
+    "Sul sito dell'Agenzia delle Entrate",
+    "All'INPS"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "JFDIocY3gKs",
+   "inizio": 0,
+   "fine": 62,
+   "canale": "CAF via Granello",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-JFDIocY3gKs-62",
+  "titolo": "730: chi deve farlo e a chi conviene",
+  "argomento": "soldi",
+  "capitolo": "Lavoro e tasse",
+  "cosaImpari": "Con un solo stipendio o una sola pensione e nessun altro reddito di solito non sei obbligato. Se hai altri redditi (affitti, collaborazioni) sì. Conviene farlo se hai spese detraibili, come quelle mediche: il rimborso arriva in busta paga.",
+  "fonte": "CAF via Granello · YouTube",
+  "quiz": {
+   "domanda": "Perché conviene fare il 730 se hai spese mediche?",
+   "risposte": [
+    "Per avere un rimborso di tasse",
+    "È obbligatorio",
+    "Per avere più ferie"
+   ],
+   "giusta": 0
+  },
+  "youtube": {
+   "id": "JFDIocY3gKs",
+   "inizio": 62,
+   "fine": 142,
+   "canale": "CAF via Granello",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-7C-z-LzS6kQ-213",
+  "titolo": "PAC: quanto e quando investire",
+  "argomento": "soldi",
+  "capitolo": "Investire",
+  "cosaImpari": "Un piano di accumulo è una cifra fissa ogni mese, con un orizzonte di almeno 10 anni, senza inseguire i mercati. Prima però sistema il budget e il fondo d'emergenza, e investi solo soldi che puoi permetterti di vedere scendere.",
+  "fonte": "Riccardo Zanetti · YouTube",
+  "quiz": {
+   "domanda": "Cosa conviene avere prima di iniziare un PAC?",
+   "risposte": [
+    "Un'auto nuova",
+    "Budget in ordine e fondo d'emergenza",
+    "Un prestito"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "7C-z-LzS6kQ",
+   "inizio": 213,
+   "fine": 270,
+   "canale": "Riccardo Zanetti",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-KR5CvD76u7Y-151",
+  "titolo": "Mutuo: tasso fisso e variabile, come sono fatti",
+  "argomento": "soldi",
+  "capitolo": "Gestire i soldi",
+  "cosaImpari": "Il fisso è IRS più spread (il guadagno della banca), entrambi bloccati per tutta la durata. Il variabile è Euribor più spread: lo spread resta fisso, l'Euribor cambia nel tempo e con lui la rata.",
+  "fonte": "Pietro Michelangeli · YouTube",
+  "quiz": {
+   "domanda": "Nel mutuo variabile, quale parte cambia nel tempo?",
+   "risposte": [
+    "Lo spread",
+    "L'Euribor",
+    "Entrambi"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "KR5CvD76u7Y",
+   "inizio": 151,
+   "fine": 213,
+   "canale": "Pietro Michelangeli",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-KR5CvD76u7Y-275",
+  "titolo": "Gli interessi del mutuo si pagano all'inizio",
+  "argomento": "soldi",
+  "capitolo": "Gestire i soldi",
+  "cosaImpari": "Con l'ammortamento alla francese la rata resta uguale, ma all'inizio è fatta quasi tutta di interessi e alla fine quasi tutta di capitale. Per questo gli interessi si pagano soprattutto nei primi anni.",
+  "fonte": "Pietro Michelangeli · YouTube",
+  "quiz": {
+   "domanda": "Nelle prime rate di un mutuo alla francese si paga soprattutto...",
+   "risposte": [
+    "Capitale",
+    "Interessi",
+    "Tasse"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "KR5CvD76u7Y",
+   "inizio": 275,
+   "fine": 345,
+   "canale": "Pietro Michelangeli",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-S-UciAhyBKA-63",
+  "titolo": "Com'è fatta la Costituzione italiana",
+  "argomento": "storia",
+  "capitolo": "Cittadinanza",
+  "cosaImpari": "In vigore dal 1° gennaio 1948, ha 139 articoli. I primi 12 sono i principi fondamentali: libertà di religione, pensiero, stampa e riunione, uguaglianza dei cittadini. L'articolo 1: l'Italia è una Repubblica democratica fondata sul lavoro.",
+  "fonte": "La Storia sul Tubo · YouTube",
+  "quiz": {
+   "domanda": "Da quando è in vigore la Costituzione italiana?",
+   "risposte": [
+    "2 giugno 1946",
+    "1° gennaio 1948",
+    "25 aprile 1945"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "S-UciAhyBKA",
+   "inizio": 63,
+   "fine": 124,
+   "canale": "La Storia sul Tubo",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-S-UciAhyBKA-140",
+  "titolo": "Parlamento e Presidente della Repubblica",
+  "argomento": "storia",
+  "capitolo": "Cittadinanza",
+  "cosaImpari": "L'Italia è una repubblica parlamentare: il governo risponde al Parlamento, formato da Camera e Senato con gli stessi poteri. Le due camere riunite eleggono il Presidente della Repubblica, che resta in carica 7 anni.",
+  "fonte": "La Storia sul Tubo · YouTube",
+  "quiz": {
+   "domanda": "Quanto dura il mandato del Presidente della Repubblica?",
+   "risposte": [
+    "5 anni",
+    "7 anni",
+    "10 anni"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "S-UciAhyBKA",
+   "inizio": 140,
+   "fine": 187,
+   "canale": "La Storia sul Tubo",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-5A6so_Z6f04-95",
+  "titolo": "Europa e Unione Europea non sono la stessa cosa",
+  "argomento": "storia",
+  "capitolo": "Cittadinanza",
+  "cosaImpari": "L'Europa è un continente; l'Unione Europea è un'organizzazione di 27 stati, tra cui l'Italia. È 'sovranazionale': in alcuni ambiti le sue decisioni valgono più di quelle dei singoli paesi.",
+  "fonte": "Geopop · YouTube",
+  "quiz": {
+   "domanda": "Cosa vuol dire che l'UE è sovranazionale?",
+   "risposte": [
+    "Che comprende tutto il mondo",
+    "Che in certi ambiti le sue decisioni prevalgono su quelle nazionali",
+    "Che non ha regole"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "5A6so_Z6f04",
+   "inizio": 95,
+   "fine": 140,
+   "canale": "Geopop",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-vJXydK4WmlU-138",
+  "titolo": "Fallacia: l'attacco alla persona",
+  "argomento": "storia",
+  "capitolo": "Mente e società",
+  "cosaImpari": "Invece di rispondere all'argomento, si screditano le caratteristiche di chi lo propone ('lo dice lui, quindi è falso'). Il discorso si sposta dall'idea alla persona. Riconoscerla ti aiuta a riportare la discussione sul punto.",
+  "fonte": "L'Arte della Crescita Personale · YouTube",
+  "quiz": {
+   "domanda": "In cosa consiste l'attacco alla persona?",
+   "risposte": [
+    "Rispondere con dati",
+    "Screditare chi parla invece del suo argomento",
+    "Chiedere chiarimenti"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "vJXydK4WmlU",
+   "inizio": 138,
+   "fine": 193,
+   "canale": "L'Arte della Crescita Personale",
+   "verticale": false
+  }
+ },
+ {
+  "id": "yt-vJXydK4WmlU-193",
+  "titolo": "Fallacia: l'argomento fantoccio",
+  "argomento": "storia",
+  "capitolo": "Mente e società",
+  "cosaImpari": "Si deforma l'idea dell'altro, esagerandola, per poterla attaccare più facilmente. Esempio: 'Vuoi la finanza personale a scuola? Allora la storia non conta!'. Risposta: chiedi perché considera le due cose come se si escludessero.",
+  "fonte": "L'Arte della Crescita Personale · YouTube",
+  "quiz": {
+   "domanda": "Cos'è l'argomento fantoccio?",
+   "risposte": [
+    "Usare un esempio inventato",
+    "Deformare la tesi dell'altro per attaccarla meglio",
+    "Citare un esperto"
+   ],
+   "giusta": 1
+  },
+  "youtube": {
+   "id": "vJXydK4WmlU",
+   "inizio": 193,
+   "fine": 256,
+   "canale": "L'Arte della Crescita Personale",
+   "verticale": false
+  }
+ }
+]
